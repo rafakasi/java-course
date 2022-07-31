@@ -1,4 +1,4 @@
-public class LessonThree {
+public class FunctionInJava {
     public static void main (String[] args) {
         sum(10, 15);
         sum(30, 30);

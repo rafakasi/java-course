@@ -1,4 +1,4 @@
-public class LessonTwo {
+public class VarAndTypes {
     public static void main(String[] args) {
         // var -> types: text (string)
         // var -> types: number (int)
