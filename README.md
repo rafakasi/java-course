@@ -3,3 +3,5 @@
 ____
 
 ### Here you will find some of my journey of study in Java!
+
+### END FOREVER - ADIOS
